@@ -7,4 +7,4 @@
 
 <div align="center" width="50">
 
-  <img src="https://github.com/yolandahuangg/yolandahuangg/blob/main/totoro.gif" width="200px"> </hl>
+  <img src="" width="200px"> </hl>
