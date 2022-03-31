@@ -22,6 +22,4 @@
   <div align="center">
   
   Feel free to reach out to me elsewhere, I check my other accounts all the time -----> <br><br>
-  Instagram: @yolandahuangg <br><br>
-  Email: yolandahuang2004@gmail.com <br><br>
-  Discord: SpaceOddity#5841 <br><br>
+  Instagram: @yolandahuangg Email: yolandahuang2004@gmail.com Discord: SpaceOddity#5841 
