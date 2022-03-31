@@ -23,7 +23,7 @@
   
   Feel free to reach out to me elsewhere, I check my other accounts all the time -----> <br><br>
   <img src="https://github.com/yolandahuangg/yolandahuangg/blob/main/ig.png" width="16px"> Instagram: @yolandahuangg 
-  <img src="https://github.com/yolandahuangg/yolandahuangg/blob/main/blank.png" width="10px">
+  <img src="https://github.com/yolandahuangg/yolandahuangg/blob/main/blank.png" width="14px">
   <img src="https://github.com/yolandahuangg/yolandahuangg/blob/main/email.png" width="16px"> Email: yolandahuang2004@gmail.com 
-  <img src="https://github.com/yolandahuangg/yolandahuangg/blob/main/blank.png" width="10px">
+  <img src="https://github.com/yolandahuangg/yolandahuangg/blob/main/blank.png" width="14px">
   <img src="https://github.com/yolandahuangg/yolandahuangg/blob/main/discord.png" width="16px"> Discord: SpaceOddity#5841 
