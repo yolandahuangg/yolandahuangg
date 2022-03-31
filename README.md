@@ -10,7 +10,9 @@
   <div align="left">
   
   This is Yolanda, and I hope you can find something worthwhile here! I don't do much, but I love good food, bbt, anime, music, fluffy cats and of course coding. For this account you will see most of my programming works, here and there, over the past few years. Python and Node.js are for sure my favorite languages to use (without contest), and I'm working towards software enineering in the future, even tho I type SUPER SLOWWW. <br><br>
-  Btw in my spare time I also enjoy visual arts, particularly photography, as well as gaming. I have basically played most of the popular games out there! Ask me and we can definitely co-op in something 😋 <br>
+  Btw in my spare time I also enjoy visual arts, particularly photography, as well as gaming. I have basically played most of the popular games out there! Ask me and we can definitely co-op in something 😋 
+  
+  </div>
   
   <div align="center" width="50">
   
