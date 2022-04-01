@@ -20,4 +20,4 @@
 
   <a href="mailto:yolandahuang2004@gmail.com">![Gmail](https://img.shields.io/badge/yolandahuang2004-%231DA1F2.svg?style=for-the-badge&logo=Gmail&logoColor=white) </a>
   
-  <a bref="https://discordapp.com/users/SpaceOddity#5841">![Discord](https://img.shields.io/badge/SpaceOddity%235841-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) </a>
+ ![Discord](https://img.shields.io/badge/SpaceOddity%235841-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) 
