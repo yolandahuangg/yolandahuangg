@@ -17,7 +17,9 @@
   -------------------
 
   <p align="center">
+
   <a href="https://www.instagram.com/yolandahuangg//">![Instagram](https://img.shields.io/badge/yolandahuangg-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
   <a href="mailto:yolandahuang2004@gmail.com">![Gmail](https://img.shields.io/badge/yolandahuang2004-%231DA1F2.svg?style=for-the-badge&logo=Gmail&logoColor=white) </a> 
   ![Discord](https://img.shields.io/badge/SpaceOddity%235841-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) 
+  
   </p>
