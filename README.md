@@ -10,14 +10,15 @@
   </div>
   <div align="center" width="50">
   
-  <img src="https://media3.giphy.com/media/U8wCBLhkjNknS/giphy.gif" width="400px"> </hl>
+  <img src="https://media3.giphy.com/media/U8wCBLhkjNknS/giphy.gif" width="400px"> 
 
-  <p align="left"
+  </div>
+  <div align="left"
 
   ## Contact Me
   -------------------
 
-  <p align="center"
+  <align="center"
 
   <a href="https://www.instagram.com/yolandahuangg//">![Instagram](https://img.shields.io/badge/yolandahuangg-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
   <a href="mailto:yolandahuang2004@gmail.com">![Gmail](https://img.shields.io/badge/yolandahuang2004-%231DA1F2.svg?style=for-the-badge&logo=Gmail&logoColor=white) </a> 
