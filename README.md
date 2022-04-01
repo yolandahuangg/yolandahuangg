@@ -8,17 +8,13 @@
   This is Yolanda, and I hope you can find something worthwhile here! In this account you will see most of my programming works over the years. Python and Node.js are for sure my favorite languages to use, and I'm working towards software engineering in the future, even though I type super slowww 🤫 
   
   </div>
-  <div align="center" width="50">
-  
-  <img src="https://media3.giphy.com/media/U8wCBLhkjNknS/giphy.gif" width="400px"> </h1>
 
-  </div>
-  <div align="left"
+  <p align="center">
+  <img src="https://media3.giphy.com/media/U8wCBLhkjNknS/giphy.gif" width="400px"> </h1>
+  </p>
 
   ## Contact Me
   -------------------
-
-  <align="center">
 
   <a href="https://www.instagram.com/yolandahuangg//">![Instagram](https://img.shields.io/badge/yolandahuangg-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
   <a href="mailto:yolandahuang2004@gmail.com">![Gmail](https://img.shields.io/badge/yolandahuang2004-%231DA1F2.svg?style=for-the-badge&logo=Gmail&logoColor=white) </a> 
