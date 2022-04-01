@@ -5,7 +5,7 @@
   <h1> Hi Guys, Welcome to My World <img src="https://github.com/yolandahuangg/yolandahuangg/blob/main/myCat.gif" width="50px"> </h1>
   </div>
 
-  <!-- Info -->
+  ##About Me
 
   <div align="left">
   
@@ -16,7 +16,7 @@
   
   <div align="center" width="50">
   
-  <img src="https://github.com/yolandahuangg/yolandahuangg/blob/main/train.gif" width="400px"> </hl>
+  <img src="https://images.app.goo.gl/JVK9dADAJ4edrN3bA" width="400px"> </hl>
 
   <!-- Contacts -->
   
