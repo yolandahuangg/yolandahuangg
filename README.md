@@ -4,7 +4,7 @@
 
   ## About
   -------------------
-  This is Yolanda, and I hope you can find something worthwhile here! I don't do much but I love food, music and fluffy cats. In this account you will see most of my programming works over the years. Python and Node.js are for sure my favorite languages to use, and I'm working towards software engineering in the future, even though I type super slowww 🤫 
+  This is Yolanda, and you won't find anything here 🤫 
   
   </div>
 
