@@ -4,7 +4,7 @@
 
   ## About
   -------------------
-  This is Yolanda, and you won't find anything here 🤫 
+  This is Yolanda, and you finally found my page! 🤫 
   
   </div>
 
