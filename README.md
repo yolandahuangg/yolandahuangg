@@ -1,5 +1,5 @@
 
-  <h1> Hi Guys, Welcome to My World <img src="https://i.pinimg.com/originals/de/68/bc/de68bcd3cec52fc34109b643fbc96949.gif" width="50px"> </h1>
+  <h1> Welcome to My World <img src="https://i.pinimg.com/originals/de/68/bc/de68bcd3cec52fc34109b643fbc96949.gif" width="50px"> </h1>
   </div>
 
   ## About
