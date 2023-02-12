@@ -7,8 +7,8 @@
   This is Yolanda, and you finally found my page! 🤫 
   
   <br />
-  I am always interested about: 
-  Web and application development
+  I am always interested about: <br />
+  Web and application development <br />
   UI/UX design
   Fullstack projects 
   Game development
