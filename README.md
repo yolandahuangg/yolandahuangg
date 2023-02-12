@@ -9,12 +9,12 @@
       <tr>
         <td class="noborder">
           <p>This is Yolanda, and you finally found my page! 🤫 </p>
-          <p>I am always interested about: </p><br />
-          <p>∙ Web and application development </p><br />
-          <p>∙ UI/UX design </p><br />
-          <p>∙ Fullstack projects </p><br />
-          <p>∙ Game development </p><br />
-          <p>∙ and any software related opportunities! </p><br />
+          <p>I am always interested about: </p>
+          <p>∙ Web and application development </p>
+          <p>∙ UI/UX design </p>
+          <p>∙ Fullstack projects </p>
+          <p>∙ Game development </p>
+          <p>∙ and any software related opportunities! </p>
         </td>
         <td class="noborder"><img src="https://media3.giphy.com/media/U8wCBLhkjNknS/giphy.gif" width="400px"></td>
       </tr>
