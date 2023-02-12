@@ -8,8 +8,8 @@
     <table class="noborder">
       <tr>
         <td class="noborder">
-          <p>This is Yolanda, and you finally found my page! 🤫 </p>
-          <p>I am always interested about: </p>
+          This is Yolanda, and you finally found my page! 🤫 <br/>
+          I am always interested about: <br/>
           <p>∙ Web and application development </p>
           <p>∙ UI/UX design </p>
           <p>∙ Fullstack projects </p>
