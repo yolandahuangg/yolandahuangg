@@ -5,9 +5,9 @@
   ## About
   -------------------
   <body>
-    <table style="border:0px solid white;>
-      <tr>
-        <td style="border: 0px;">
+    <table style="border:0px solid white">
+      <tr style="border: 0px">
+        <td style="border: 0px">
           This is Yolanda, and you finally found my page! 🤫 <br/><br/>
           I am always interested about: <br/>
           ∙ Web and application development <br/>
@@ -16,7 +16,7 @@
           ∙ Game development <br/>
           ∙ and any software related opportunities! <br/>
         </td>
-        <td style="border: 0px;"><img src="https://media3.giphy.com/media/U8wCBLhkjNknS/giphy.gif" width="500px"></td>
+        <td style="border: 0px"><img src="https://media3.giphy.com/media/U8wCBLhkjNknS/giphy.gif" width="500px"></td>
       </tr>
     </table>
   </body>
