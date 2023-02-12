@@ -4,23 +4,29 @@
 
   ## About
   -------------------
-  This is Yolanda, and you finally found my page! 🤫 
-  
-  I am always interested about: <br />
-  ∙ Web and application development <br />
-  ∙ UI/UX design <br />
-  ∙ Fullstack projects <br />
-  ∙ Game development <br />
-  ∙ and any software related opportunities! <br />
-  <br />
+  <body>
+    <table class="noborder">
+      <tr>
+        <td class="noborder">
+          <p>This is Yolanda, and you finally found my page! 🤫 </p>
+          <p>I am always interested about: </p><br />
+          <p>∙ Web and application development </p><br />
+          <p>∙ UI/UX design </p><br />
+          <p>∙ Fullstack projects </p><br />
+          <p>∙ Game development </p><br />
+          <p>∙ and any software related opportunities! </p><br />
+        </td>
+        <td class="noborder"><img src="https://media3.giphy.com/media/U8wCBLhkjNknS/giphy.gif" width="400px"></td>
+      </tr>
+  </table>
+</body>
+          
+
   
   Visit my personal website at: www.yolandahuangg.com <br />
   Feel free to reach out to me at all times! <br />
   </div>
 
-  <p align="center">
-  <img src="https://media3.giphy.com/media/U8wCBLhkjNknS/giphy.gif" width="400px"> </h1>
-  </p>
 
   ## Contact Me
   -------------------
