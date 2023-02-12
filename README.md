@@ -10,11 +10,11 @@
         <td class="noborder">
           This is Yolanda, and you finally found my page! 🤫 <br/>
           I am always interested about: <br/>
-          <p>∙ Web and application development </p>
-          <p>∙ UI/UX design </p>
-          <p>∙ Fullstack projects </p>
-          <p>∙ Game development </p>
-          <p>∙ and any software related opportunities! </p>
+          ∙ Web and application development <br/>
+          ∙ UI/UX design <br/>
+          ∙ Fullstack projects <br/>
+          ∙ Game development <br/>
+          ∙ and any software related opportunities! <br/>
         </td>
         <td class="noborder"><img src="https://media3.giphy.com/media/U8wCBLhkjNknS/giphy.gif" width="400px"></td>
       </tr>
