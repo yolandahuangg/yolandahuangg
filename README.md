@@ -6,6 +6,17 @@
   -------------------
   This is Yolanda, and you finally found my page! 🤫 
   
+  <br />
+  I am always interested about: 
+  Web and application development
+  UI/UX design
+  Fullstack projects 
+  Game development
+  and any software related opportunities!
+  <br />
+  
+  Visit my personal website at: www.yolandahuangg.com
+  Feel free to reach out to me at all times!
   </div>
 
   <p align="center">
