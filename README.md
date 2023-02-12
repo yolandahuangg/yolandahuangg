@@ -4,6 +4,7 @@
 
   ## About
   -------------------
+  <body>
     <table border="0">
       <tr>
         <td class="noborder">
@@ -18,7 +19,7 @@
         <td class="noborder"><img src="https://media3.giphy.com/media/U8wCBLhkjNknS/giphy.gif" width="500px"></td>
       </tr>
   </table>
-
+</body>
           
 
   
