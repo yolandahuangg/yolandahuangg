@@ -5,7 +5,7 @@
   ## About
   -------------------
   <body>
-    <table class="noborder">
+    <table border="0">
       <tr>
         <td class="noborder">
           This is Yolanda, and you finally found my page! 🤫 <br/><br/>
@@ -15,9 +15,8 @@
           ∙ Fullstack projects <br/>
           ∙ Game development <br/>
           ∙ and any software related opportunities! <br/>
-          <td class="noborder"><img src="https://media3.giphy.com/media/U8wCBLhkjNknS/giphy.gif" width="500px"></td>
         </td>
-        
+        <td class="noborder"><img src="https://media3.giphy.com/media/U8wCBLhkjNknS/giphy.gif" width="500px"></td>
       </tr>
   </table>
 </body>
