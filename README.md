@@ -19,7 +19,14 @@
         <td class="noborder"><img src="https://media3.giphy.com/media/U8wCBLhkjNknS/giphy.gif" width="500px"></td>
       </tr>
   </table>
+  
 </body>
+
+<style>
+  table td {
+    border: none !important;
+  }
+</style>
           
 
   
