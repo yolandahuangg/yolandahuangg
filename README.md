@@ -19,15 +19,16 @@
         <td class="noborder"><img src="https://media3.giphy.com/media/U8wCBLhkjNknS/giphy.gif" width="500px"></td>
       </tr>
   </table>
-  
-</body>
-
-<style>
+  <style>
   table td {
     border: none !important;
   }
 </style>
           
+  
+</body>
+
+
 
   
   Visit my personal website at: www.yolandahuangg.com <br />
